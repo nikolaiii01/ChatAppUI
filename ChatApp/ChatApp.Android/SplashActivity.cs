@@ -12,5 +12,6 @@ namespace ChatApp
     [Activity(Label = "ChatApp",Icon = "@mipmap/icon", Theme = "@style/splashscreen", MainLauncher = true, NoHistory = true)]
     public class SplashActivity : AppCompatActivity
     {
+
     }
 }
